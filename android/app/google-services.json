@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17191778376",
+    "firebase_url": "https://espblinktest-2b83f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "espblinktest-2b83f",
+    "storage_bucket": "espblinktest-2b83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17191778376:android:35220f4d3a37b12d64c07d",
+        "android_client_info": {
+          "package_name": "com.example.testesp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17191778376-v9cl017ehuh510fjnjjiijm90c9si60q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSlLEo2ePkFW7OfVvAzUsklSZLXddSz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17191778376-v9cl017ehuh510fjnjjiijm90c9si60q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
